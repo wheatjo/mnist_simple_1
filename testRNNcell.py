@@ -11,5 +11,5 @@ output, h1 = cell(inputs=inputs, state=h0)
 print(h1)
 print(h1.h, h1.h.shape)
 print(h1.c, h1.c.shape)
-print(output, output.shape)
+#print(output, output.shape)
 #test RNN
